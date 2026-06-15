@@ -100,3 +100,7 @@ Viego's R pushes away all but the lowest health enemy, which can be used as a sm
 **7. AA > P**
 Because taking bodies are tied to AA and you often kill with one there will be a small delay before you can transform. For no cost use this window to cast any remaining abilites for extra damage or in case your target doesn't die through the auto. (Generally look to use all of your abilites before you transform, even outside this window.)
 You can also hold your AA, waiting until your opponent dies to something else so you can transform faster.
+
+# 6. Other Information
+**1. E > P**
+You always want to use your E before going into a P because it gives you the attack speed, move speed and stealth.
