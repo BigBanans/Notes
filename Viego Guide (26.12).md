@@ -1,30 +1,30 @@
 # 1. Playstyle
 ### Matchups
-**- Tanks / Bruisers (Dr. Mundo, Vi, Xin Zhao, Diana)**
+**Tanks / Bruisers (Dr. Mundo, Vi, Xin Zhao, Diana)**
 Viego's best matchups are into tank or bruiser junglers where you have a better time scaling in the early game and can take advantage of your high damage later on
 
-**- Assassins (Talon, Lee Sin, Kha'zix, Qiyana)**
+**Assassins (Talon, Lee Sin, Kha'zix, Qiyana)**
 He's bad into assassins who can more often force isolated 1v1s and can take advanatge of his weak defensive options
 
 ### Draft
-**- Engage / CC (Ornn, Lissandra, Jhin, Rell), (AP Mid)**
+**Engage / CC (Ornn, Lissandra, Jhin, Rell), (AP Mid)**
 You ideally want to play in an engaged comp with plenty of frontline and CC to set you up.
 
-**- Scaling / Ranged (AD Mid)**
+**Scaling / Ranged (AD Mid)**
 You ideally want to avoid playing with ranged or scaling comps which can't support you early and have limited options to set you up
 
 ### Clear
-**- Play to full clear, 2 points in **Q** at level 3.**
+**Play to full clear, 2 points in **Q** at level 3.**
 Viego is for the most part a scaling jungler, so put 2 points in your **Q** at level 3 in most games.
 
-**- Look for skirmishes, generally avoid 1v1s**
+**Look for skirmishes, generally avoid 1v1s**
 Once you're done farming, look for skirmishes with your team and avoid taking 1v1s unless you have a lead
 
 ### Team Fighting
-**- Look to follow up your team's engage**
+**Look to follow up your team's engage**
 For team fights your main job is to be the follow up engage.
 
-**- Be patient until **ULT**: generally don't be first engage**
+**Be patient until **ULT**: generally don't be first engage**
 You need to be very patient until you find the angle for your first reset, and only then you should start looking to dive the enemy team.
 
 # 2. Basic Combos (All of which can be paired with flash)
